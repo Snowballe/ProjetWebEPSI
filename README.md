@@ -1,11 +1,14 @@
-CAHIER DES CHARGES : SITE E-COMMERCE
+###Projet Développement Application Web
+
+##CAHIER DES CHARGES : SITE E-COMMERCE
+
 1. PRESENTATION
-1.1 Présentation de l’entreprise
-L’entreprise PuériBonheur est en cours de création. Elle est spécialisée dans la vente d’articles de puériculture originaux sur les segments de l’éveil, du jeu et du textile. Elle est concentrée dans la recherche de fournisseurs afin de proposer des produits différents et innovants. L’entreprise véhicule son image via la création d’une sympathie autour du site en recherchant le côté ludique et éducatif. L’idée est de créer un lieu d’échanges et de convivialité pour favoriser la fidélité des acheteurs.
-1.2 Contexte
-Après analyse du domaine de la puériculture, les créateurs ont détecté des opportunités de business à condition d’être innovant au niveau du mix produits et d’être présent dans le conseil et la convivialité auprès des parents.
+	1.1 Présentation de l’entreprise
+		L’entreprise PuériBonheur est en cours de création. Elle est spécialisée dans la vente d’articles de puériculture originaux sur les segments de l’éveil, du jeu et du textile. Elle est concentrée dans la recherche de fournisseurs afin de proposer des produits différents et innovants. L’entreprise véhicule son image via la création d’une sympathie autour du site en recherchant le côté ludique et éducatif. L’idée est de créer un lieu d’échanges et de convivialité pour favoriser la fidélité des acheteurs.
+	1.2 Contexte
+		Après analyse du domaine de la puériculture, les créateurs ont détecté des opportunités de business à condition d’être innovant au niveau du mix produits et d’être présent dans le conseil et la convivialité auprès des parents.
 2. PRESENTATION DU ROJET
-2.1 Objectifs
+	2.1 Objectifs
 Ce projet vise à :
 1. Mettre en place un site internet présentant l'entreprise, ses activités et ses produits ou services.
 2. Exposer le catalogue des produits ou des services.
@@ -157,4 +160,5 @@ Fournir un accès en ligne aux statistiques de fréquentation du site. Celles-ci
 - nombre d’accès visiteurs,
 - nombre de visites,
 - le nombre de visites par famille de produits, ou sous-famille de produit,
-- le nombre de visiteurs par produit du catalogue.
+- le nombre de visiteurs par produit du catalogue,
+
