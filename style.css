@@ -1,0 +1,23 @@
+<!-- fichier accueil -->
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html{
+  background-color: #f9f4ac;
+}
+body{
+  background-color: #f9f4ac;
+  font-family: 'Roboto', 'sans-serif';
+}
+#logonavbar{
+  width: 10%;
+}
+
+@font-face{
+  font-family: 'Roboto', 'sans-serif';
+}
+
+#logintile{
+  display: flex;
+  border: solid black;
+  
+}
